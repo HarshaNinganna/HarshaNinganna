@@ -1,9 +1,9 @@
 # Hi there, I'm Harsha 👋
 
 ### 🌐 Connect with Me:
-- LinkedIn: [linkedin.com/in/harsha-n-164b69283/](https://www.linkedin.com/in/harsha-n-164b69283/)
-- Email: hv6152239@gmail.com
-
+- **Website**: [harshaninganna.dev](https://harshaaa.netlify.app/)
+- **LinkedIn**: [linkedin.com/in/harsha-n-164b69283/](https://www.linkedin.com/in/harsha-n-164b69283/)
+- **Email**: hv6152239@gmail.com
 ---
 
 ### 🛠 Technologies & Tools
@@ -28,7 +28,6 @@
 
 <div align="center">
   
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaNinganna&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshaNinganna&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
