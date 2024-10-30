@@ -46,7 +46,7 @@ Feel free to reach out – I’m always excited to connect with fellow tech enth
 - **[Online Voting System](https://github.com/HarshaNinganna/OnlineVoting-Django)**  
   A secure, OTP-authenticated voting system built with Django, providing a responsive interface and reliable database integration.
 
-- **4Castly(https://github.com/HarshaNinganna/4castly)**  
+- **[4Castly](https://github.com/HarshaNinganna/4castly)**  
   A weather application using the OpenWeatherMap API with real-time weather updates, weekly forecasts, and dynamic user experience.
 
 - **[Portfolio](https://github.com/HarshaNinganna/Portofolio)**  
@@ -67,7 +67,6 @@ Feel free to reach out – I’m always excited to connect with fellow tech enth
 
 ### 📈 GitHub Stats & Contributions
 
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaNinganna&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshaNinganna&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNinganna&layout=compact&theme=radical)
 
