@@ -5,7 +5,7 @@ I'm a passionate **Full Stack Developer** and tech enthusiast, always keen to ex
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsha-n-164b69283/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:hv6152239@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://yourwebsite.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://harshaaa.netlify.app/)  
 Feel free to reach out – I’m always excited to connect with fellow tech enthusiasts and collaborate on projects.
 
 ---
