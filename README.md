@@ -1,37 +1,38 @@
 # Hi there, I'm Harsha 👋
 
-I'm a passionate **Full Stack Developer** and tech enthusiast, always keen to explore new technologies and bring innovative ideas to life. My journey revolves around creating impactful solutions and seamless user experiences with skills spanning across **web development, data analysis, and backend engineering**.
+I'm a passionate **Full Stack Developer** and tech enthusiast, always keen to explore new technologies and bring innovative ideas to life. My journey revolves around creating impactful solutions and seamless user experiences with skills spanning **web development, data analysis, and backend engineering**.
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsha-n-164b69283/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:hv6152239@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://harshaaa.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://harshaaa.netlify.app/)
+
 Feel free to reach out – I’m always excited to connect with fellow tech enthusiasts and collaborate on projects.
 
 ---
 
 ### 🛠 Technologies & Tools
 
-- **Programming Languages**:  
+- **Programming Languages**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- **Frameworks**:  
+- **Frameworks**  
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- **Frontend**:  
+- **Frontend**  
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **Databases**:  
+- **Databases**  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- **Tools**:  
+- **Tools**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
