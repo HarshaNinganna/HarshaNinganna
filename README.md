@@ -2,6 +2,8 @@
 
 I'm a passionate **Full Stack Developer** and tech enthusiast, always keen to explore new technologies and bring innovative ideas to life. My journey revolves around creating impactful solutions and seamless user experiences with skills spanning **web development, data analysis, and backend engineering**.
 
+---
+
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsha-n-164b69283/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:hv6152239@gmail.com)
@@ -39,7 +41,7 @@ Feel free to reach out – I’m always excited to connect with fellow tech enth
 
 ---
 
-### 🔥 Projects
+### 🔥 Featured Projects
 
 - **[SnapCart](https://github.com/HarshaNinganna/SnapCart)**  
   An e-commerce platform with secure multi-payment options, order tracking, and user-friendly navigation.
@@ -48,7 +50,7 @@ Feel free to reach out – I’m always excited to connect with fellow tech enth
   A secure, OTP-authenticated voting system built with Django, providing a responsive interface and reliable database integration.
 
 - **[4Castly](https://github.com/HarshaNinganna/4castly)**  
-  A weather application using the OpenWeatherMap API with real-time weather updates, weekly forecasts, and dynamic user experience.
+  A weather application using the OpenWeatherMap API with real-time weather updates, weekly forecasts, and a dynamic user experience.
 
 - **[Portfolio](https://github.com/HarshaNinganna/Portofolio)**  
   An interactive and responsive portfolio showcasing my work, skills, and achievements, with seamless navigation and a modern UI.
@@ -75,7 +77,7 @@ Feel free to reach out – I’m always excited to connect with fellow tech enth
 
 ### 🌱 Currently Learning & Future Goals
 
-- Exploring **machine learning** for data-driven web applications.
+- Exploring **Machine Learning** for data-driven web applications.
 - Improving my skills in **React** for frontend development.
 - Building projects that merge technology with creativity to deliver impactful solutions.
 
