@@ -71,7 +71,6 @@ Feel free to reach out – I’m always excited to connect with fellow tech enth
 ### 📈 GitHub Stats & Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshaNinganna&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNinganna&layout=compact&theme=radical)
 
 ---
