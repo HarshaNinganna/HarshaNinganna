@@ -1,99 +1,38 @@
-# Hi there, I'm Harsha 👋
+<h1 align="center">Hi 👋, I'm Harsha N</h1>
+<h3 align="center">A passionate Full Stack Developer creating impactful, user-centric web solutions</h3>
 
-I'm a passionate **Full Stack Developer** and tech enthusiast with expertise in creating user-centric, robust, and scalable web applications. With hands-on experience in **frontend and backend development**, I thrive on bringing impactful solutions to life. My journey is powered by a deep interest in cutting-edge technologies and a commitment to delivering seamless user experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshaninganna&label=Profile%20views&color=0e75b6&style=flat" alt="harshaninganna" /> </p>
 
----
+- 🔭 I’m currently working on **Beat-Flow, Watt-Nest, and Digital E Gram Panchayath**  
+- 🌱 I’m currently learning **Machine Learning**  
+- 💬 Ask me about **Web Development, Full Stack Technologies, and Data Visualization**  
+- 📫 How to reach me **hv6152239@gmail.com**  
+- 📄 Know about my experiences [Portfolio](https://harshaaa.netlify.app/)  
 
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsha-n-164b69283/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:hv6152239@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://harshaaa.netlify.app/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harsha-n-164b69283" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="harsha-n-164b69283" height="30" width="40" /></a>
+<a href="https://github.com/harshaninganna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="harshaninganna" height="30" width="40" /></a>
+<a href="mailto:hv6152239@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="hv6152239@gmail.com" height="30" width="40" /></a>
+<a href="https://harshaaa.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/firefox.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
 
-Feel free to reach out – I’m always excited to connect with fellow developers, tech enthusiasts, and collaborators!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaninganna&show_icons=true&locale=en&layout=compact" alt="harshaninganna" /></p>
 
-### 🛠 Technical Skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshaninganna&show_icons=true&locale=en" alt="harshaninganna" /></p>
 
-- **Programming Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-- **Frontend Development:**  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-- **Backend Development:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-- **Database Management:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-- **Tools & Platforms:**  
-  ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=black)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
----
-
-### 🔥 Featured Projects
-
-- **[Snap-Kart](https://github.com/HarshaNinganna/SnapCart)**  
-  *A full-stack e-commerce platform featuring product catalogs, user management, and secure payment integrations.*  
-  **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
-
-- **[Online Voting System](https://github.com/HarshaNinganna/OnlineVoting-Django)**  
-  *A secure voting platform ensuring transparency with OTP-based authentication.*  
-  **Tech Stack:** Python, SQLite, HTML  
-
-- **[Beat-Flow](https://github.com/HarshaNinganna/Beat-Flow)**  
-  *A web-based music player enabling playlist creation and audio streaming.*  
-  **Tech Stack:** HTML, CSS, JavaScript, Firebase  
-
-- **[Watt-Nest](https://github.com/HarshaNinganna/Watt-Nest)**  
-  *EV charging station locator with real-time updates, feedback, and navigation features.*  
-  **Tech Stack:** HTML, CSS, JavaScript, Firebase  
-
-- **[4Castly](https://github.com/HarshaNinganna/4castly)**  
-  *A responsive weather application with live updates and forecasts.*  
-  **Tech Stack:** React.js, Node.js  
-
-Explore more on my [GitHub repositories](https://github.com/HarshaNinganna?tab=repositories).
-
----
-
-### 🏆 Achievements & Certifications
-
-- **Certified in Full Stack Web Development** – AcmeGrade / IIT Bombay  
-- **Java Programming** – Advanced programming concepts  
-- **PowerBI Data Analytics** – Proficiency in data visualization and analysis  
-- **Tumbe International E-Magazine** – Published author  
-
----
-
-### 🌱 Currently Learning & Future Goals
-
-- Expanding knowledge in **Machine Learning** to build smarter web applications.  
-- Mastering **React** for modern, scalable frontend development.  
-- Committed to blending creativity with technology for impactful solutions.
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshaNinganna&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNinganna&layout=compact&theme=radical)
-
----
-
-Let’s collaborate and build something amazing together! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaninganna&" alt="harshaninganna" /></p>
