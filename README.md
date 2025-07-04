@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Beat-Flow, Watt-Nest, and Digital E Gram Panchayath**  
 - 🌱 I’m currently learning **Machine Learning**  
 - 💬 Ask me about **Web Development, Full Stack Technologies, and Data Visualization**  
-- 📫 How to reach me **hv6152239@gmail.com**  
+- 📫 How to reach me **harshan3101@gmail.com**  
 - 📄 Know about my experiences [Portfolio](https://harshaaa.netlify.app/)  
 
 ---
