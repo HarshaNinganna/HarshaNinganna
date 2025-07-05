@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshaninganna&label=Profile%20views&color=0e75b6&style=flat" alt="harshaninganna" /> </p>
 
-- 🔭 I’m currently working on **Beat-Flow, Watt-Nest, and Digital E Gram Panchayath**  
+- 🔭 I’m currently working on **Beat-Flow, Watt-Nest, and Digital E Gram Panchayath**, **Scam Detector Application** 
 - 🌱 I’m currently learning **Machine Learning**  
 - 💬 Ask me about **Web Development, Full Stack Technologies, and Data Visualization**  
 - 📫 How to reach me **harshan3101@gmail.com**  
