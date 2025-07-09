@@ -18,6 +18,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNinganna&show_icons=true&theme=default" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshaNinganna&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNinganna&layout=compact&theme=default" alt="Top Languages" height="180" />
 </p>
