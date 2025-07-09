@@ -1,57 +1,23 @@
-# 👋 Hey, I'm Harsha N
+# Hey, I'm Harsha N 👋  
+**Full Stack Developer | Tech Explorer | Lifelong Learner**
 
-A passionate **Full Stack Developer** driven by curiosity and a commitment to building impactful digital solutions. I love transforming ideas into usable, scalable, and cleanly engineered products.
+🌱 I’m currently learning **React.js, Django, and Machine Learning**
 
----
+👨‍💻 I’m building a project combining **React, Django, and ML**
 
-### 🔧 What I'm Currently Focusing On
+📑 Check out my resume here – [My Resume](https://drive.google.com/file/d/1_6vE6chsn0_wbKLNwxWupoG31NYKqqXj/view?usp=sharing)
 
-- Mastering **React.js** for responsive and dynamic user interfaces  
-- Building backend systems using **Django** and Python  
-- Exploring core concepts of **Machine Learning**  
-- Developing a full-fledged project that integrates all three technologies  
+💻 All of my projects are available on [GitHub](https://github.com/HarshaNinganna)
 
----
+💬 Ask me about **Web Apps, Backend Systems, and Machine Learning**
 
-### 💡 My Tech Philosophy
-
-I believe in:
-- Writing clean, maintainable code  
-- Designing with the user in mind  
-- Staying adaptable in a fast-evolving tech landscape  
-- Constantly experimenting, learning, and building  
+📫 Reach out to me at **harshan3101@gmail.com**
 
 ---
 
-### 🧠 Currently Exploring
+### 📊 GitHub Stats
 
-- REST APIs & integration with frontend frameworks  
-- Django ORM, authentication systems, and custom views  
-- React component optimization & hooks  
-- ML workflows and practical model deployment  
-
----
-
-### 📂 Featured Projects
-
-Take a look at some of my past and ongoing projects:
-
-- **[Digital-E-Gram Panchayat](https://github.com/HarshaNinganna/Digital-E-Gram-Panchayat)** – A complete digital governance platform  
-- **[Scam Detector](https://github.com/HarshaNinganna/Scam-Detector)** – Detects fraudulent SMS patterns  
-- More at: [github.com/HarshaNinganna](https://github.com/HarshaNinganna)
-
----
-
-### ✨ A Little About Me
-
-I'm curious, self-driven, and always looking to build or contribute to something meaningful.  
-I enjoy:
-- Building intuitive user interfaces  
-- Learning from open-source codebases  
-- Exploring how tech can solve real-life problems  
-
-If you’re working on something exciting or want to collaborate, feel free to connect!
-
-📫 **harshan3101@gmail.com**
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNinganna&show_icons=true&theme=default" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNinganna&layout=compact&theme=default" alt="Top Languages" height="180" />
+</p>
