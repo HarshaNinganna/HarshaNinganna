@@ -1,5 +1,5 @@
 # Hey, I'm Harsha N 👋  
-**Full Stack Developer | Tech Explorer | Lifelong Learner**
+**Full Stack Developer | Frontend Developer | Tech Explorer | Lifelong Learner**
 
 🌱 I’m currently learning **React.js, Django, and Machine Learning**
 
