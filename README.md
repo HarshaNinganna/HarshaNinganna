@@ -14,6 +14,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaNinganna&theme=default" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNinganna&layout=compact&theme=default" alt="Top Languages" />
 </p>
